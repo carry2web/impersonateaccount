@@ -2,15 +2,15 @@
 This is a plugin for Botble CMS so you have to purchase Botble CMS first to use this plugin. 
 Purchase it here: [https://codecanyon.net/item/botble-cms-php-platform-based-on-laravel-framework/16928182](https://1.envato.market/LWRBY)
 
-Impersonate is a plugin that allows you to authenticate as your users.
+Impersonate Account is a plugin that allows you to authenticate as your registered accounts.
 
 # Installation
-- Download and rename folder `impersonate-master` to `impersonate`.
-- Copy folder `impersonate` into `/platform/plugins`.
-- Go to Admin -> Plugins then activate plugin Impersonate.
+- Download and rename folder `impersonateaccount-master` to `impersonateaccount`.
+- Copy folder `impersonateaccount` into `/platform/plugins`.
+- Go to Admin -> Plugins then activate plugin ImpersonateAccount.
 
 # Usage
-- Go to Admin -> Platform Administration -> Users and use "Login as this user"
+- Go to Admin -> Platform Administration -> Accounts and use "Login as this account"
 
 # Screenshots
 
