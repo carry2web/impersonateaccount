@@ -1,6 +1,6 @@
 <?php
 
-namespace Botble\Impersonate;
+namespace Botble\ImpersonateAccount;
 
 use Botble\PluginManagement\Abstracts\PluginOperationAbstract;
 
