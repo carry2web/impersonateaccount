@@ -1,13 +1,13 @@
 <?php
 
-namespace Botble\Impersonate\Events;
+namespace Botble\ImpersonateAccount\Events;
 
 use Illuminate\Broadcasting\InteractsWithSockets;
 use Illuminate\Contracts\Auth\Authenticatable;
 use Illuminate\Foundation\Events\Dispatchable;
 use Illuminate\Queue\SerializesModels;
 
-class TakeImpersonation
+class TakeImpersonationAccount
 {
     use Dispatchable, InteractsWithSockets, SerializesModels;
 
